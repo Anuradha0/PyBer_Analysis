@@ -6,9 +6,10 @@ Once we have created the metrics, we then need to create a multi-line graph to d
 
 Results:
 
-1)Urban cities have the most amount of drivers, rides and total fares followed by Suburban than Rural
+1) Urban cities have the most amount of drivers, rides and total fares followed by Suburban than Rural
 2) Rural cities being the least amount of drivers,rides & fares the have the highest average of fare per ride and fare per driver and vice versa for Urban cities
 
+![](C:/Users/v-ansi20/Documents/Amendment Docs/anuradha doc/DS/HW_5/Observation.png)
 
 1) All three city types start to rise to a peak at the end for February. For the Urban city type, that oscillating peak lasts through April, while the other city types wane in the month of March.
 
